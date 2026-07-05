@@ -147,6 +147,9 @@ Website
 
 https://amux.in
 
+Product
+https://amux.in/green-prompt.html
+
 npm
 
 https://www.npmjs.com/package/amux-green-prompt
